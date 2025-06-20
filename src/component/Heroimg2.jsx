@@ -160,7 +160,7 @@ const Heroimg2 = () => {
 
                 {/*left section*/}
                 <div className='text-[#263238] text-left md:text-left mb-8 md:mb-0'>
-                 <h1 className='text-3xl md:text-4xl max-w-[300px] md:max-w-[700px] font-bold'>
+                 <h1 className='text-3xl md:text-4xl max-w-[300px] md:max-w-[600px] lg:max-w-[700px] font-bold'>
                     How to design your site footer like we did
                  </h1> 
                  <p className='mt-4 max-w-[400px]'>
